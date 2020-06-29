@@ -4,4 +4,6 @@ The Ethereum decentralized exchange assistant. Check token balances, transaction
 
 Original URL : https://deltabalances.github.io/
 
+Original Repo : https://github.com/DeltaBalances/DeltaBalances.github.io
+
 Arweave Port URL : https://arweave.net/e8KKnpeu9AX8SzvOJxzaHxeLMDF416WjdmeV8oon-P4
